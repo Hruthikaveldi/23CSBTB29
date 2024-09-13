@@ -11,4 +11,6 @@
 
 6.[https://github.com/Hruthikaveldi/23CSBTB29/blob/main/Assignment_2.ipynb]
 
-7.[https://github.com/Hruthikaveldi/23CSBTB29/blob/main/Assignment4.ipynb]
+7.[https://github.com/Hruthikaveldi/23CSBTB29/blob/main/lab(30_08_24).ipynb]
+
+8.[https://github.com/Hruthikaveldi/23CSBTB29/blob/main/Assignment4.ipynb]
