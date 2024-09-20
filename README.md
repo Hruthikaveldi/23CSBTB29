@@ -16,3 +16,5 @@
 8.[https://github.com/Hruthikaveldi/23CSBTB29/blob/main/Assignment4.ipynb]
 
 9.[https://github.com/Hruthikaveldi/23CSBTB29/blob/main/lab(13_09).ipynb]
+
+10.[https://github.com/Hruthikaveldi/23CSBTB29/blob/main/AIML_lab(20_09_24)ipynb.ipynb]
