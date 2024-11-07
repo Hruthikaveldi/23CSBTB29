@@ -19,6 +19,10 @@
 
 10.[https://github.com/Hruthikaveldi/23CSBTB29/blob/main/AIML_lab(20_09_24)ipynb.ipynb]
 
-.[https://github.com/Hruthikaveldi/23CSBTB29/blob/main/SVM.ipynb]
+11.[https://github.com/Hruthikaveldi/23CSBTB29/blob/main/SVM.ipynb]
+
+12.[https://github.com/Hruthikaveldi/23CSBTB29/blob/main/Decision_Tree.ipynb]
+
+13.
 
 
