@@ -27,4 +27,5 @@
 
 14.[https://github.com/Hruthikaveldi/23CSBTB29/blob/main/Random_Forest.ipynb]
 
+15.[https://github.com/Hruthikaveldi/23CSBTB29/blob/main/AIML_exam_no_3(Decision_Tree).ipynb]
 
